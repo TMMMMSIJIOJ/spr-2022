@@ -1,0 +1,33 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<url>
+<loc>https://speedtest.sky4k.top/</loc>
+<lastmod>2022-04-13T05:15:04+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://speedtest.sky4k.top/index.html</loc>
+<lastmod>2022-04-13T05:15:04+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://speedtest.sky4k.top/ipv4/</loc>
+<lastmod>2022-04-13T05:15:04+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://speedtest.sky4k.top/ipv6/</loc>
+<lastmod>2022-04-13T05:15:04+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://speedtest.sky4k.top/ipv4/index.html</loc>
+<lastmod>2022-04-13T05:15:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+<url>
+<loc>https://speedtest.sky4k.top/ipv6/index.html</loc>
+<lastmod>2022-04-13T05:15:04+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+</urlset>
